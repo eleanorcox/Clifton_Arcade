@@ -9,7 +9,7 @@ The following renders of Clifton Arcade give a rough tour around the Arcade. Not
 ![Clifton Arcade - Stairs](/Renders/a.png)
 ![Clifton Arcade - Stairs](/Renders/c.png)
 ![Clifton Arcade - Stairs, Front](/Renders/d.png)
-![Clifton Arcade - Stairs, Opposite](/Renders/n/png)
+![Clifton Arcade - Stairs, Opposite](/Renders/n.png)
 ![Clifton Arcade - Topiary Detail](/Renders/f.png)
 ![Clifton Arcade - Facing Entrance](/Renders/e.png)
 ![Clifton Arcade - Facing Entrance](/Renders/h.png)
